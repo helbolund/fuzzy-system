@@ -1,0 +1,7 @@
+[package]
+name = "fuzzy-system"
+version = "0.1.0"
+authors = ["Morten Helbo Lund <mhlund>"]
+edition = "2018"
+
+[dependencies]
